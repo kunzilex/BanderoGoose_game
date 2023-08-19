@@ -1,2 +1,4 @@
 The BanderoGoose game is developed on Python
-After downloading the AppSite_Django to your computer open it in PyCharm or Visual Code Studio
+To play the game download and save the "main.py" file to your computer. 
+Copy code from "main.py" file and put it in PyCharm or Visual Code Studio. In Terminal input the following command:
+python3 main.py
